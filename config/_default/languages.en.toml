@@ -2,7 +2,8 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Rahul Sharma"
+headline = "I'm only human"
 
 [params]
   displayName = "EN"
@@ -12,9 +13,9 @@ title = "Blowfish"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+   copyright = "&copy; 2025 Rahul Sharma. All Rights Reserved"
 
-# [params.author]
+# [author]
 #   name = "Your name here"
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"

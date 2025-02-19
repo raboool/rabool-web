@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rahul Sharma</title>
-    <link>http://localhost:51180/</link>
-    <description>Recent content on Rahul Sharma</description>
+    <title>Qt on Rahul Sharma</title>
+    <link>http://localhost:51180/tags/qt/</link>
+    <description>Recent content in Qt on Rahul Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2025 Rahul Sharma. All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:51180/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:51180/tags/qt/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Building Qt 6.5.0 statically on Windows 11 with MSVC</title>
