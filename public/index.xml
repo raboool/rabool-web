@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rabool.com</title>
+    <title>The Rabool Site</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on rabool.com</description>
+    <description>Recent content on The Rabool Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>me@rabool.com (Rahul Sharma)</managingEditor>
@@ -13,21 +13,11 @@
     
     <item>
       <title>Designing a SSH stealing rubber ducky</title>
-      <link>http://localhost:1313/posts/rubber-ducky/rubber-ducky/</link>
+      <link>http://localhost:1313/posts/rubber-ducky/</link>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
       <author>me@rabool.com (Rahul Sharma)</author>
-      <guid>http://localhost:1313/posts/rubber-ducky/rubber-ducky/</guid>
+      <guid>http://localhost:1313/posts/rubber-ducky/</guid>
       <description>Building a tool to steal ssh keys from unsuspecting UNSW students</description>
-      
-    </item>
-    
-    <item>
-      <title>This is a placeholder!</title>
-      <link>http://localhost:1313/posts/proj1/</link>
-      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <author>me@rabool.com (Rahul Sharma)</author>
-      <guid>http://localhost:1313/posts/proj1/</guid>
-      <description>Placeholder</description>
       
     </item>
     
