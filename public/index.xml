@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rahul Sharma</title>
-    <link>http://localhost:51180/</link>
-    <description>Recent content on Rahul Sharma</description>
+    <title>rabool.com</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on rabool.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>me@rabool.com (Rahul Sharma)</managingEditor>
+    <webMaster>me@rabool.com (Rahul Sharma)</webMaster>
     <copyright>&amp;copy; 2025 Rahul Sharma. All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:51180/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Designing a SSH stealing rubber ducky</title>
+      <link>http://localhost:1313/posts/rubber-ducky/rubber-ducky/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <author>me@rabool.com (Rahul Sharma)</author>
+      <guid>http://localhost:1313/posts/rubber-ducky/rubber-ducky/</guid>
+      <description>Building a tool to steal ssh keys from unsuspecting UNSW students</description>
+      
+    </item>
     
     <item>
       <title>Building Qt 6.5.0 statically on Windows 11 with MSVC</title>
-      <link>http://localhost:51180/posts/test/</link>
+      <link>http://localhost:1313/posts/proj1/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:51180/posts/test/</guid>
+      <author>me@rabool.com (Rahul Sharma)</author>
+      <guid>http://localhost:1313/posts/proj1/</guid>
       <description>Building Qt 6.5.0 statically on Windows 11 with MSVC</description>
       
     </item>

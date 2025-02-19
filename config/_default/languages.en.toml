@@ -2,8 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Rahul Sharma"
-headline = "I'm only human"
+title = "rabool.com"
 
 [params]
   displayName = "EN"
@@ -15,15 +14,15 @@ headline = "I'm only human"
   # description = "My awesome website"
    copyright = "&copy; 2025 Rahul Sharma. All Rights Reserved"
 
-# [author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+ [params.author]
+   name = "Rahul Sharma"
+   email = "me@rabool.com"
+   image = "IMG_0749.jpg"
+   imageQuality = 96
+   headline = "2nd year | UNSW Comp Sci"
+   bio = "2nd year | UNSW Comp Sci"
+   links = [
+     { email = "mailto:me@rabool.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -45,7 +44,7 @@ headline = "I'm only human"
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+     { linkedin = "https://rabool.com/linkedin" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
@@ -71,4 +70,4 @@ headline = "I'm only human"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+   ]
