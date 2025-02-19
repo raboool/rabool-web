@@ -1,7 +1,7 @@
 ---
-title: Building Qt 6.5.0 statically on Windows 11 with MSVC
+title: This is a placeholder!
 date: 2023-05-22
-summary: Building Qt 6.5.0 statically on Windows 11 with MSVC
-tags: ["windows", "qt"]
+summary: Placeholder
+tags: ["placeholder"]
 ---
 hey there this is a test!
