@@ -17,7 +17,7 @@ title = "The Rabool Site"
  [params.author]
    name = "Rahul Sharma"
    email = "me@rabool.com"
-   image = "IMG_0749.jpg"
+   image = "IMG_0147.jpeg"
    imageQuality = 96
    headline = "2nd year | UNSW Comp Sci"
    bio = "2nd year | UNSW Comp Sci"
@@ -35,7 +35,7 @@ title = "The Rabool Site"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+     { github = "https://github.com/rabooolt" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
