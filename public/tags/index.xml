@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on The Rabool Site</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on The Rabool Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>me@rabool.com (Rahul Sharma)</managingEditor>
-    <webMaster>me@rabool.com (Rahul Sharma)</webMaster>
-    <copyright>&amp;copy; 2025 Rahul Sharma. All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Web</title>
-      <link>http://localhost:1313/tags/web/</link>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <author>me@rabool.com (Rahul Sharma)</author>
-      <guid>http://localhost:1313/tags/web/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cybersecurity</title>
-      <link>http://localhost:1313/tags/cybersecurity/</link>
-      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-      <author>me@rabool.com (Rahul Sharma)</author>
-      <guid>http://localhost:1313/tags/cybersecurity/</guid>
-      <description></description>
-      
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Tags on The Rabool Site</title>
+		<link>https://example.org/tags/</link>
+		<description>Recent content in Tags on The Rabool Site</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+			<managingEditor>me@rabool.com (Rahul Sharma)</managingEditor>
+		
+		
+			<webMaster>me@rabool.com (Rahul Sharma)</webMaster>
+		
+		
+		
+			<lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Web</title>
+				<link>https://example.org/tags/web/</link>
+				<pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate><author>me@rabool.com (Rahul Sharma)</author>
+				<guid>https://example.org/tags/web/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cybersecurity</title>
+				<link>https://example.org/tags/cybersecurity/</link>
+				<pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate><author>me@rabool.com (Rahul Sharma)</author>
+				<guid>https://example.org/tags/cybersecurity/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
