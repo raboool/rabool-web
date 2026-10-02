@@ -16,13 +16,13 @@ title = "The Rabool Site"
 
  [params.author]
    name = "Rahul Sharma"
-   email = "me@rabool.com"
-   image = "IMG_0147.jpeg"
+   email = "rahul.sharma@rabool.com"
+   image = "photo.jpeg"
    imageQuality = 96
    headline = "Final year | UNSW Comp Sci"
    bio = "Final year | UNSW Comp Sci"
    links = [
-     { email = "mailto:me@rabool.com" },
+     { email = "mailto:rahul.sharma@rabool.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
